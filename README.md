@@ -36,4 +36,4 @@ Please make sure to update tests as appropriate.
 2. This tool uses the reCaptcha API from Google.
 3. This tool is not responsible for GDPR compliance.
 
-**Warning this tool is not GDPR compliant and you should not use this tool if you are not GDPR compliant as it uses an accessible csv file to store emails and keys. If you wish to be GDPR compliant you should use a database to store the emails and keys.**
+**Warning this tool is not GDPR compliant and you should not use this tool if you are wish to be GDPR compliant as it uses an accessible csv file to store emails and keys. If you wish to be GDPR compliant you should use a database to store the emails and keys.**
